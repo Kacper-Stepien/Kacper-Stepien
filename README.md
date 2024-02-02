@@ -65,12 +65,12 @@
 <div align="center">
 <h2>My stats</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kacper-stepien&show_icons=true&locale=en&theme=tokyonight" alt="kacper-stepien" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kacper-stepien&show_icons=true&locale=en&theme=tokyonight&card_width=500px" alt="kacper-stepien" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kacper-Stepien&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kacper-Stepien&theme=tokyonight&card_width=500px&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kacper-Stepien&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kacper-Stepien&theme=tokyonight&card_width=500px)](https://git.io/streak-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kacper2076&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kacper2076&theme=tokyonight&card_width=500px)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
