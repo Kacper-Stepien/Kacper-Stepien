@@ -71,6 +71,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kacper-Stepien&theme=tokyonight&card_width=500px)](https://git.io/streak-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kacper2076&theme=tokyonight&card_width=500px)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kacper2076&theme=tokyonight&card_width=500px&v=2)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
