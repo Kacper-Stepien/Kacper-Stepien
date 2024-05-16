@@ -6,6 +6,8 @@
 
 - 💡 My biggest project is [MotoSplot](https://github.com/Kacper-Stepien/MotoSplot) - a digital community platform for automotive enthusiasts, akin to Facebook with real-time chat. In collaboration with a colleague, I took charge of the frontend development.
 
+- 🌐 My website is [here](https://portfolio-page-ek44.onrender.com/)
+
 - 👨‍💻 All of my projects are available at [https://github.com/Kacper-Stepien?tab=repositories](https://github.com/Kacper-Stepien?tab=repositories)
 
 - 📫 How to reach me **kacper2007x48@gmail.com**
