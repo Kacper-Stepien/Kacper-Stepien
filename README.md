@@ -29,9 +29,10 @@
 
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
 [![React](https://skillicons.dev/icons?i=react)](https://reactjs.org/)
+[![Material UI](https://skillicons.dev/icons?i=materialui)](https://mui.com/material-ui/)
+[![Tailwind CSS](https://skillicons.dev/icons?i=tailwindcss)](https://tailwindcss.com/)
 [![Redux](https://skillicons.dev/icons?i=redux)](https://redux.js.org/)
 [![Sass](https://skillicons.dev/icons?i=sass)](https://sass-lang.com/)
-[![Tailwind CSS](https://skillicons.dev/icons?i=tailwindcss)](https://tailwindcss.com/)
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -45,6 +46,7 @@
 <p>Databases</p>
 
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
+[![Redis](https://skillicons.dev/icons?i=redis)](https://redis.io/)
 [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
 [![SQLite](https://skillicons.dev/icons?i=sqlite)](https://www.sqlite.org/)
 
@@ -57,6 +59,7 @@
 [![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
+[![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com)
 [![Adobe XD](https://skillicons.dev/icons?i=xd)](https://www.adobe.com/products/xd.html)
 [![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
 
